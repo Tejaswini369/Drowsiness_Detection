@@ -12,4 +12,4 @@ During the model training phase, we can also interpret the accuracy metric
 provided by Keras. A high accuracy indicates that our model is effectively learning 
 to distinguish between open and closed eyes from our training data.
 
-The dataset contains 2000 images each for closed and Open eyes in the Train folder of the Code directory.
+The dataset contains 2000 images each for closed and Open eyes in the Train folder.
