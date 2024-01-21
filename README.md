@@ -13,6 +13,8 @@ provided by Keras. A high accuracy indicates that our model is effectively learn
 to distinguish between open and closed eyes from our training data.
 
 The dataset contains 2000 images each for closed and Open eyes in the Train folder.
+
+RESULTS:
 ![image](https://github.com/Tejaswini369/Drowsiness_Detection/assets/52880298/a53fae13-d04c-4136-9b21-3e993b156e9d)
 ![image](https://github.com/Tejaswini369/Drowsiness_Detection/assets/52880298/23c93d1b-6789-488c-b530-46b5de95ffc1)
 
